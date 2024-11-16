@@ -1,4 +1,5 @@
 # JenkinsLab
-This is my last commit to turn in my lab assignment
+This is my commit for my homework lab assignment
+
 
 
